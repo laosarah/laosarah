@@ -9,7 +9,7 @@
 
 ### Linguagens e ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,firebase,jest,git,bootstrap,figma,vscode,trello,ps,ai,ae&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,firebase,jest,git,bootstrap,figma,vscode,ps,ai,ae&theme=dark)](https://skillicons.dev)
 
 
 📫 Como me contatar:<br>
